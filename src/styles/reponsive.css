@@ -1,0 +1,245 @@
+@media (min-width:  1025px) and (max-width: 1440px) {
+    header {
+        padding: 20px 70px;
+    }
+
+    header img {
+        width: 100px;
+    }
+
+    header nav ul li {
+        padding: 20px 25px;
+    }
+
+    main {
+        background-image: url("/src/assets/images/bg-curvy-desktop.svg");
+        background-position: center bottom;
+       
+    }
+
+    .div-main {
+        width: 30%;
+        margin-top: 0px;
+    }
+
+    .div-main img {
+        width: 390px;
+        margin-bottom: 20px;
+       
+    }
+
+    .div-main h1 {
+        font-size: 25px;
+        width: 450px;
+    }
+
+    .div-sec1 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 50%;
+        
+    }
+    
+    .div-sec2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+    }
+
+    .sec2 {
+        height: 90%;
+    }
+
+    .div-sec2  {
+        margin-bottom: 190px;
+    }
+
+    .sec2 img.img-stay {
+        width: 390px;
+        margin-right: 60px;
+        margin-bottom: 0px;
+    }
+
+    .div-sec2 .container {
+        width: 40%;
+    }
+
+    .div-sec2 h1 {
+        font-size: 1.8em;
+        width: 300px;
+        margin-bottom: 10px;
+    }
+    
+    .div-sec2 p {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .div-sec2 .link {
+        padding: 3px 0px;
+        margin-top: 30px;
+    }
+
+    .sec3 {
+        padding-top: 0px;
+    }
+
+    .div-sec3 {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 35px;
+        
+    }
+
+    .sec3 .aspa {
+        position: relative;
+        bottom: 128px;
+        left: 50px;
+        width: 40px;
+        margin: 0;
+    }
+
+    .cards {
+        position: relative;
+        z-index: 2;
+        width: 30%;
+    }
+
+
+    .div-sec4 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 50%;
+    }
+
+    .div-sec4 h1 {
+        color: #fff;
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    
+    .div-sec4 p {
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+
+    .div-sec4 input[type="email"] {
+        width: 90%;
+        margin: auto;
+    }
+
+    .div-sec4 input[type="button"] {
+        width: 30%;
+        margin-right: 20px;
+        margin-top: 0px;
+        
+    }
+
+    .inputs {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    footer {
+        padding-bottom:60px;
+    }
+
+    .div-footer {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+        width: 90%;
+        margin: auto;
+    }
+
+    .div-footer .footer-logo {
+        width: 140px;
+        margin-left: 60px;
+    }
+
+   .conatiner-footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 100%;
+       
+    }
+
+    .ctts {
+        flex-direction: row;
+        
+    }
+
+    .loc {
+        width: 330px;
+        margin-right: 50px;
+        
+    }
+
+    .loc p{
+       font-size: 14px;
+    }
+
+    .conatct {
+        width: 180px;
+    }
+
+    .conatct span {
+        font-size: 14px;
+    }
+
+    .nav-footer {
+        display: flex;
+        justify-content: space-between;
+        width: 200px;
+        margin: 0px 0px  0px 0px;
+        
+    }
+    
+    .nav-footer .ul1 {
+        margin: 0px;
+    }
+
+    .nav-footer ul li {
+        padding: 0px 0px 15px 0px;
+    }
+    
+    .nav-footer ul li a {
+        color: #ffffff98;
+        font-size: 16px;
+    }
+
+    .nav-footer ul li a:hover {
+        color: #fff;
+    }
+
+    .midias {
+        justify-content: center;
+        align-items: start;
+        width: 200px;
+    }
+
+    .cont {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    span.erro {
+        display: inline;
+        height: 0px;
+       
+    }
+
+}
