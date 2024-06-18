@@ -94,6 +94,7 @@ main {
     font-weight: 700;
     border-radius: 50px;
     padding: 18px 70px;
+    cursor: pointer;
 }
 
 .sec1 {
@@ -171,7 +172,7 @@ main {
     color: #65e2d9;
     border-bottom: 3px solid #65e2d9;
     padding: 18px 0px;
-    width: 176px;
+    width: 225px;
 }
 
 .div-sec2 .link img {
@@ -293,6 +294,7 @@ main {
 }
 
 .div-sec4 input[type="button"] {
+    cursor: pointer;
     width: 98%;
     border-style: none;
     border-radius: 30px;
@@ -400,6 +402,7 @@ footer {
     width: 200px;
     height: 100px;
     margin-left: 90px;
+    cursor: pointer;
 }
 
 .midias i {
