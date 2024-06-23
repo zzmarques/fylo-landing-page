@@ -121,6 +121,10 @@ main {
     height: 220px;
 }
 
+.clb {
+    margin-top: 50px;
+}
+
 .div-sec1 .infos img {
     width: 50px;
 }
